@@ -1,6 +1,6 @@
 {
-  "name": "Rater-Web-Component-library",
-  "version": "1.0.0",
+  "name": "clutch_rater_library",
+  "version": "1.0.1",
   "Author": "Lukas Simianer",
   "description": "UI elements library based on web components",
   "main": "index.js",

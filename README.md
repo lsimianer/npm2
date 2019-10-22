@@ -7,13 +7,16 @@
   - [Usage](#usage)
   - [API](#api)
     - [Modal Window](#modal-window)
-      - [Tag Name](#tag-name)
-      - [Methods](#methods)
-        - [Open](#open)
-        - [Close](#close)
-      - [ICD](#icd)
-        - [Config](#config)
+    - [Tag Name](#tag-name)
+    - [Methods](#methods)
+    - [Open](#open)
+    - [Close](#close)
+     [ICD](#icd)
+     [Config](#config)
   - [Contributing](#contributing)
+    - [Development](#contributing)
+
+
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -21,12 +24,12 @@
 A web components UI library.
 
 ## Installation
-`npm install web-components-ui-elements`
+`npm i clutch_rater_library`
 
 ## Usage
 You can require the whole library:
 
-`import * from web-components-ui-elements;`
+`import * from clutch_rater_library;`
 
 And use in the DOM like this:
 
@@ -95,4 +98,16 @@ Closes the modal
 - `npm run build` to get the build
 - `npm run test` to test
 - `npm run serve` to run a development environment
+<br>
+<br>
+<h3> Development</h3>
+- Create a file in src/components/ce-your-new-file.js 
+- Develope test file named in format "ce-your-component-name.spec.js"
+- Write tests using ce-modal-window.spec.js as a model.
+- Run NPM run test ( with tests built in ).
+- If tests pass create a pull request.
+- Create components 
+
+
+
 
