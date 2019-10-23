@@ -24,12 +24,12 @@
 A web components UI library.
 
 ## Installation
-`npm i clutch_rater_library`
+`npm i lukes_generic_library`
 
 ## Usage
 You can require the whole library:
 
-`import * from clutch_rater_library;`
+`import * from lukes_generic_library;`
 
 And use in the DOM like this:
 
